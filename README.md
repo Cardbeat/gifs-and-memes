@@ -1,6 +1,6 @@
 # GiFalcon
 
-Projeto para visualizaçao e pesquisa de gifs usand a API d giphy
+Projeto para visualizaçao e pesquisa de gifs usando a API do giphy
 
 ## Available Scripts
 
